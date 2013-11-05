@@ -1,0 +1,1 @@
+pandoc -t beamer -V theme:Warsaw -V colortheme:dolphin -V fonttheme:structuresmallcapsserif -i ChildNephroticSyndrome2013.markdown -o ChildNephroticSyndrome2013Slides.tex
