@@ -371,7 +371,138 @@ Consider epidemiology - African and African-American populations are more likely
 Punchline - routine biopsy is not indicated
 >
 </div>
+
+<div class="notes"
 ###Immunizations
 
+* Give pneumococcal vaccine
+* Give annual influenza vaccine
+* Live virus vaccines should be deferred until prednisone dose is below 1mg/kg daily or below 2mg/kg on alternate days
+* No live virus vaccines for children on steroid sparing meds
+* Immunize contacts but protect the patient from secretions for 3-6 weeks afterwards
+* VZig for exposed kids if non-immune
+>
+</div>
 #Steroid Resistant Nephrotic Syndrome
 
+##Case - Xiao Han
+
+###Xiao Han - the case
+
+Xiao Han
+
+Xiao Han is a 6 year old boy who presented to clinic about two months ago with swelling around the lower legs an ankles for 3 days, uPCR of 5000mg/g, microscopic hematuria and a blood pressure of 120/80.  He was started on 2mg/kg/day prednisone and has been monitoring urine proteins. He has been on the 2mg/kg/day for 4 weeks and is ready to start weaning but is still spilling protein (2-3+ every day).
+
+###Disease definition
+
+What exactly is Steroid Resistant Nephrotic Syndrome?
+
+* ISKDC - 95% of SSNS respond after 4 weeks of daily
+* ISKDC - Maybe you just need to treat longer or with higher doses
+* KDIGO - non responsiveness after 4 weeks of 2mg/kg/day then 4 weeks of 1.5mg/kg/day
+
+<div class="notes"
+* SSNS response goes up to 100% if you tack on another 3 weeks of alternate day therapy.  So, at the end of 4 weeks, if you have not responded you still may be SSNS.
+* Other data from the ISKDC showed remission in lower dose, longer therapy control arm kids in cyclophosphamide studies, still others showed remission of these types in high dose steroid arms.
+* KDIGO set a standard but that is not ideal either - if you are following guidelines (6 weeks of daily then 6 weeks alternate day) your patient will never meet that standard.
+>
+</div>
+
+###Steroid Resistant Nephrotic Syndrome
+
+* 50% risk of ESRD within five years
+* thromboembolic events
+* hypertension
+* peritonitis
+* dyslipidemia
+
+<div class="notes"
+* ESRD patients have a 19 year life expectancy on dialysis, 40 years post-transplant
+* 
+>
+</div>
+###Workup
+
+In a patient with SRNS:
+
+* Renal biopsy
+* Evaluate GFR
+* Quantify the protein leak
+
+<div class="notes"
+* Bx is looking for other causes - IgA, SLE, etc.  It also will show non-MCD lesions (usually more difficult to treat but some MCD can be really hard too!).  Bx also will help with knowing the extent of extant fibrosis.
+* Need to measure and document a GFR, this can be very helpful in following the disease course
+* quantifying protein leak - a uPCR is adequate for this, can be followed to guage response to therapy and worsening natural history
+>
+</div>
+
+##Calcineurin inhibitors
+
+###Calcineurin inhibitors
+
+* Cyclosporine has the most evidence and experience
+* Choudhry looked at tacrolimus vs. cyclosporine and found no efficacy difference
+* Tacrolimus has significantly less hypertrichosis and gingival hyperplasia
+* Reduction in proteinuria in 4-6 weeks
+* Remission in 8 - 12 weeks usually
+* Optimal duration is unknown
+
+<div class="notes"
+* Lower side effects seems to improve compliance in tacrolimus users
+* Most people use tacrolimus now
+* Whereas optimal duration is unknown, most would go with 12 to 24 months
+>
+</div>
+
+##Steroids
+
+###Steroids
+
+* Taper to the lowest dose that keeps the patient in remission
+* All studies done so far use CNI with low dose steroids, no RCT looking at CNI alone vs. CNI with steroids
+
+##Other meds
+
+###Renin-Angiotensin System blockade
+
+* Dose response effect
+* 33% have reduction in proteinuria with 0.2mg/kg/day (enalapril)
+* 52% have reduction in proteinuria with 0.6mg/kg/day (enalapril)	
+
+###High dose steroids
+
+Steroid control arm of SRNS studies
+
+Trial                        Total N            Response (%)
+---------------------        -----------        ----------
+ISKDC (1974)                 13                 46.2
+Tarshish (1996)              21                 57.1
+
+* RCTs have shown up to 34% response to high dose steroids
+* May be useful in kids who fail CNI therapy
+
+<div class="notes"
+* Apparently you get similar response with lower dose steroids in control arms of trials
+>
+</div>
+
+###MMF, Cytotoxic agents, Rituximab
+
+Mycophenolate mofetil
+
+* May be useful in kids who fail CNI therapy
+* Usually added to steroid or CNI
+
+Cyclophosphamide - probably more harm than benefit
+
+Rituximab - RCTs required
+
+#Conclusion
+
+###Questions?
+
+![](./img/img_0492.jpg)
+
+###Thank you!
+
+![](./img/img_0156.jpg)
