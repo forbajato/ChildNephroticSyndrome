@@ -8,11 +8,13 @@ NB: the pandoc documentation says you can close the speaker notes tag (above) wi
 
 #Introduction
 
-##Let's get started!
+##Case Definition
+
+###Let's get started!
 
 ![](./img/IMG_1842.JPG)
 
-##What kind of patients are we talking about anyway?
+###What kind of patients are we talking about anyway?
 
 Nephrotic Syndrome
 
@@ -37,7 +39,9 @@ What is missing from the case definition?
 * It is helpful to know old practices because in the developing world you may find they are still using the old ways.>
 </div>
 
-##Important resources to know
+##Resources
+
+###Important resources to know
 
 * ISKDC - International Study of Kidney Disease in Children 
 * KDIGO - Kidney Disease: Improving Global Outcomes (www.kdigo.org/home/glomerulonephritis-gn)
@@ -47,7 +51,9 @@ What is missing from the case definition?
 * KDIGO came out in 2012, collates evidence for treatment of various conditions.  Chapters 3 and 4 deal with childhood nephrotic syndrome.  Evidence for various interventions is GRADEd (Grades of Recommendation Assessment, Development and Education). Get a copy at >
 </div>
 
-##Obligatory Epidemiology Slide
+##Epidemiology
+
+###Obligatory Epidemiology Slide
 
 * 1-3 (some reports as high as 7)/100,000 children under the age of 16
 * Black and Hispanic kids in the US more likely to have steroid resistant disease
@@ -61,12 +67,13 @@ I got interested in nephrology because of all the NS I was seeing in China ... a
 
 #Steroid Sensitive Nephrotic Syndrome
 
+##Case - Xiao Ma
 
-##Xiao Ma - The case
+###Xiao Ma - The case
 
 Xiao Ma is a 3YO Asian male who presented to his local doc 3 days ago with puffy eyes.  The local doc gave cholorpheniramine and sent him home.  He comes back today with extension of the swelling to the feet and legs.
 
-##Xiao Ma - The discussion
+###Xiao Ma - The discussion
 
 * Most likely what time of day did he present initially?
 * What tests do you want to do?
@@ -83,7 +90,9 @@ Therapy - steroids, discuss lasix and albumin, discuss antibiotics
 Predictor - steroid responsiveness trumps pathology >
 </div>
 
-##Initial approach to therapy for Childhood Nephrotic Syndrome
+##Initial Therapy
+
+###Initial approach to therapy for Childhood Nephrotic Syndrome
 
 * Steroids are the mainstay
 * Initial dose is 2mg/kg/day or 60mg/m2/day in single daily dose
@@ -96,7 +105,7 @@ Why 4-6 weeks?  Moderate quality evidence that this decreases relapses with an i
 What do I do?  Give as above, 6 weeks of induction, 6 weeks of q other day for consolidation (with taper)>
 </div>
 
-##Why so long?
+###Why so long?
 
 Hodson, et.al. did some meta-analysis of RCTs using steroid therapy regimens.
 
@@ -109,7 +118,9 @@ Objective           Result                         Stats stuff
 The initial meta-analysis showed an inverse linear relationship of relapse risk between 2 and three months.  Looks like the longer the better. Probably a big benefit of tapering the drugs is the help to prolong the therapy and thus reduce relapse risk.>
 </div>
 
-##Relapse Therapy - The Return of Xiao Ma
+##Relapse
+
+###Relapse Therapy - The Return of Xiao Ma
 
 Poor Xiao Ma got a cold. It has been 5 months since his original episode but now he has three plus protein in his urine by mom's home albustix.  She calls the office for advice.
 
@@ -119,7 +130,7 @@ Poor Xiao Ma got a cold. It has been 5 months since his original episode but now
 Typical relapse scenario - get a intercurrent infection, get a relapse, even if you you treated long enough the first time.  Xiao Ma is going to need steroids again.>
 </div>
 
-##Approach to Relapse Therapy in Childhood Nephrotic Syndrome
+###Approach to Relapse Therapy in Childhood Nephrotic Syndrome
 
 Relapse
 
@@ -146,13 +157,15 @@ Be sure to teach moms to cut albustix in half or thirds length wise to save mone
 >
 </div>
 
-##On ward!
+###On ward!
 
 ![](./img/img_0761.jpg)
 
 #Frequent Relapse/Steroid Dependent Therapy
 
-##Xiao Li
+##Case - Xiao Li
+
+###Xiao Li
 
 Xiao Li has nephrotic syndrome and has had multiple relapses.  Every time he responds to the steroids but then relapses whenever he is ill.  "It just seems he is addicted to the steroids!"
 
@@ -164,7 +177,7 @@ Xiao Li has nephrotic syndrome and has had multiple relapses.  Every time he res
 Mom is almost certainly concerned about the side effects of the steroids.  By now he is becoming cushingoid, may have stria, may not be sleeping and is likely eating her out of house and home.  He really looks different from other kids which is causing mom much stress.>
 </div>
 
-##Definitions
+###Definitions
 
 Frequent Relapse
 
@@ -176,11 +189,13 @@ Steroid dependence
 
 :    2 consecutive relapses during corticosteroid therapy or within 14 days of ceasing therapy
 
-##Steroid side effects
+##Steroids
+
+###Steroid side effects
 
 ![Cushing Syndrome](/home/tom/Documents/lectures/2013Louisville/img/cushing-syndrome-big.jpg)
 
-##Steroid side effects
+###Steroid side effects
 
 * Obesity
 * Hypertension
@@ -191,7 +206,7 @@ Steroid dependence
 * Reduced bone mineral density
 * Etc. (skin changes, behavior changes ...)
 
-##Who is most likely to become a frequent relapser?
+###Who is most likely to become a frequent relapser?
 
 * Short time to first relapse
 * Number of relapses in first six months
@@ -201,14 +216,14 @@ Steroid dependence
 * Infection with first relapse
 * Hematuria at presentation
 
-##Approach to therapy - Steroids
+###Approach to therapy - Steroids
 
 * Daily prednisone until remission for 3 days
 * Alternate day prednisone for 3 months minimum
 * Daily prednisone at lowest dose possible for SD patients
 * Consider daily prednisone during times of URI or other infection in kids with FR or SD disease who are already on alternate day therapy
 
-##Approach to therapy - Steroid sparing agents
+###Approach to therapy - Steroid sparing agents
 
 Corticosteroid sparing agents
 
@@ -218,6 +233,8 @@ Corticosteroid sparing agents
 1. Rituximab
 
 ##Alkylating Agents
+
+###Cyclophosphamide/Chlorambucil
 
 Cyclophosphamide (Cytoxan)
 
@@ -242,6 +259,8 @@ Others: Levamisole, Mizoribine, Azothioprine
 
 ##Calcineurin inhibitors
 
+###Calcineurin inhibitors
+
 Cyclosporine
 
 * 4-5mg/kg/d divided bid
@@ -252,7 +271,7 @@ Tacrolimus
 * 0.1mg/kg/d divided bid
 * Monitor troughs (5-10ng/mL, 6-12nmol/l)
 
-##Calcineurin inhibitors
+###Calcineurin inhibitors
 
 Cyclosporine side effects
 
@@ -273,7 +292,7 @@ some data suggests Ketoconazole increases cyclosporine levels with no reduction 
 >
 </div>
 
-##Using CNIs
+###Using CNIs
 
 Caveats
 
@@ -282,6 +301,8 @@ Caveats
 * Cost
 
 ##Lesser established therapies
+
+###Mycophenolate mofetil
 
 Mycophenolate mofetil
 
@@ -295,7 +316,7 @@ Studies have shown can go up to 45 months
 May atenuate the dose of CNIs (cyclosporine) if used in conjunction
 >
 </div>
-##Lesser established therapies
+###Mycophenolate mofetil
 
 Mycophenolate mofetil
 
@@ -308,7 +329,7 @@ Hogg, et. al. study
 * 12 kids relapse free for 6 months post-treatment
 * 8 of the 12 relapse free for up to 30 months follow up
 
-##Lesser established therapies
+###Mycophenolate mofetil
 
 Coming attractions: Clinicaltrials.gov
 
@@ -317,7 +338,7 @@ Coming attractions: Clinicaltrials.gov
 * Compare efficacy of MMF vs. cyclophosphamide therapies
 * Looking forward to results in September, 2014
 
-##Lesser established therapies
+###Monoclonals
 
 Rituximab
 
@@ -326,7 +347,7 @@ Rituximab
 * Some studies with great results (anecdotal data of 80% remission rate)
 * Ravani, et.al. showed significant reduction in relapse rate at 3 months a small, open label RCT
 
-##Lesser established therapies
+###Monoclonals
 
 Coming attractions: Clinicaltrials.gov
 
@@ -334,7 +355,9 @@ Coming attractions: Clinicaltrials.gov
 
 * Look at use of rituximab in the CNI "dependent" patients
 
-##Renal Biopsy
+##Other considerations
+
+###Indications for biopsy
 
 Renal biopsy can be helpful in evaluating prognosis, do a biopsy for
 
@@ -348,7 +371,7 @@ Consider epidemiology - African and African-American populations are more likely
 Punchline - routine biopsy is not indicated
 >
 </div>
-##Immunizations
+###Immunizations
 
 #Steroid Resistant Nephrotic Syndrome
 
