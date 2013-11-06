@@ -1,1 +1,1 @@
-pandoc -t beamer+definition_lists+tex_math_dollars --toc -V theme:Copenhagen -V colortheme:beetle -V fonttheme:structuresmallcapsserif -i ChildNephroticSyndrome2013.markdown -o ChildNephroticSyndrome2013Slides.pdf
+pandoc -t beamer+definition_lists+tex_math_dollars --toc --slide-level 3 -V theme:Copenhagen -V colortheme:beetle -V fonttheme:structuresmallcapsserif -i ChildNephroticSyndrome2013.markdown -o ChildNephroticSyndrome2013Slides.pdf
