@@ -8,6 +8,12 @@ NB: the pandoc documentation says you can close the speaker notes tag (above) wi
 
 #Introduction
 
+###Objectives
+
+1. Participants will be able to identify the various types of childhood nephrotic syndrome.
+1. Participants will be able to approach the treatment of CNS in a cost effective and scientifically rational way.
+1. Participants will know where to go to get more information on CNS.
+
 ##Case Definition
 
 ###Let's get started!
@@ -45,6 +51,7 @@ What is missing from the case definition?
 
 * ISKDC - International Study of Kidney Disease in Children 
 * KDIGO - Kidney Disease: Improving Global Outcomes (www.kdigo.org/home/glomerulonephritis-gn)
+* Lecture slides (http://github.com/forbajato/ChildNephroticSyndrome)
 
 <div class="notes"
 * ISKDC - - conducted from 1967-1974 in North America, Europe and Asia, followed hundreds of kids for years, collected data on diagnostic markers, biopsy results, treatment outcomes, etc.
@@ -227,7 +234,7 @@ Steroid dependence
 
 Corticosteroid sparing agents
 
-1. Alkylating Agents (cyclosporing/chlorambucil)
+1. Alkylating Agents (cyclophosphamide/chlorambucil)
 1. Calcinurin inhibitors (cyclosporine/tacrolimus)
 1. Mycophenolate mofetil
 1. Rituximab
@@ -391,7 +398,7 @@ Punchline - routine biopsy is not indicated
 
 Xiao Han
 
-Xiao Han is a 6 year old boy who presented to clinic about two months ago with swelling around the lower legs an ankles for 3 days, uPCR of 5000mg/g, microscopic hematuria and a blood pressure of 120/80.  He was started on 2mg/kg/day prednisone and has been monitoring urine proteins. He has been on the 2mg/kg/day for 4 weeks and is ready to start weaning but is still spilling protein (2-3+ every day).
+Xiao Han is a 6 year old boy who presented to clinic about two months ago with swelling around the lower legs and ankles for 3 days, uPCR of 5000mg/g, microscopic hematuria and a blood pressure of 120/80.  He was started on 2mg/kg/day prednisone and has been monitoring urine proteins. He has been on the 2mg/kg/day for 4 weeks and is ready to start weaning but is still spilling protein (2-3+ every day).
 
 ###Disease definition
 
@@ -414,7 +421,7 @@ What exactly is Steroid Resistant Nephrotic Syndrome?
 * thromboembolic events
 * hypertension
 * peritonitis
-* dyslipidemia
+* elevated lipids
 
 <div class="notes"
 * ESRD patients have a 19 year life expectancy on dialysis, 40 years post-transplant
